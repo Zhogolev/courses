@@ -2,6 +2,7 @@
   "name": "@zhogolev.ke/howtonpm",
   "version": "1.0.0",
   "main": "index.js",
+  "repository":"https://github.com/Zhogolev/courses",
   "scripts": {
     "test": "node test.js"
   },
