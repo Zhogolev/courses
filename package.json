@@ -2,15 +2,25 @@
   "name": "@zhogolev.ke/howtonpm",
   "version": "1.0.0",
   "main": "index.js",
-  "repository":"https://github.com/Zhogolev/courses",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhogolev/courses.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zhogolev.ke",
+  "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "README.md",
+  "bugs": {
+    "url": "https://github.com/Zhogolev/courses/issues"
+  },
+  "homepage": "https://github.com/Zhogolev/courses#readme",
+  "keywords": [
+    "test-me"
+  ]
 }
